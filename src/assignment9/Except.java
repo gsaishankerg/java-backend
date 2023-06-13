@@ -1,6 +1,6 @@
 package assignment9;
 
-public class Exception
+public class Except
 {
     public void test(int a,int b) {
         try {
@@ -19,7 +19,7 @@ public class Exception
 
     }
     public static void main(String [] args) {
-        Exception r=new Exception();
+        Except r=new Except();
         r.test(5,0);
     }
 }

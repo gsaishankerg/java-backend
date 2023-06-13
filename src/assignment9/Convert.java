@@ -12,7 +12,7 @@ public class Convert
         {
            try
             {
-                System.out.println(Convert(str1[i]));
+                System.out.println(str1[i]);
             }
             catch (Exception e)
             {
